@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+body{
+text-align: center;
+}
+div {
+ background-color: lightgrey;
+ width: 240px;
+ border: 10px solid green;
+ padding: 15px;
+text-align: left; 
+margin-left: auto ;
+margin-right: auto ;
+margin-top: 10px ;
+margin-bottom: 10px ;
+}
+a {
+text-decoration: none;
+}
+img {
+ margin: auto;
+vertical-align: middle; 
+}
+p {
+ background-color: #ECEBE3;
+ color: white;
+ padding: 5px 20px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+}
+table {
+text-align: center;
+}
+th, td {
+ text-align: left;
+ padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+th {
+ background-color: #4CAF50;
+ color: white;
+}
